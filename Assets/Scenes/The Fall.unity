@@ -813,6 +813,7 @@ MonoBehaviour:
   - {fileID: 1120481339179720, guid: 4f268495bbb97e4468f16772dd46cbe0, type: 3}
   - {fileID: 1937859975943118, guid: aa3947d4efa455946a8333f8c2ec1a50, type: 3}
   bonus: {fileID: 1044195637806918, guid: 78d440a07b67def498d05ff31dbc1202, type: 3}
+  count: 0
   maxNumOfFreeCylinders: 3
   offset: 5
   cylinderLength: 5
@@ -847,7 +848,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1031720574
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1358,6 +1359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   gm: {fileID: 1245382202}
+  count: 0
 --- !u!1 &1617293731
 GameObject:
   m_ObjectHideFlags: 0
@@ -1505,7 +1507,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1648514202
 RectTransform:
   m_ObjectHideFlags: 0
